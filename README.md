@@ -59,7 +59,7 @@ streamlit run main.py
 ## 👨‍💻 Author
 **Kubilay Tuna**
 
-🔗 [github.com/ktuna](https://github.com/ktuna)
+🔗 [github.com/ktuna26](https://github.com/ktuna26)
 
 ## 📄 License
 This project is licensed under the **GNU General Public License v3.0**.
